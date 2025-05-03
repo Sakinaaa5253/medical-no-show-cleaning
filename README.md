@@ -1,6 +1,6 @@
 In this data cleaning and preprocessing project, we focus on the widely-used Medical Appointment No Shows dataset. We thoroughly clean the dataset by identifying and resolving missing values, duplicates, inconsistent formats, and incorrect data types — preparing it for further exploratory data analysis and modeling.
 
-# Medical Appointment No-Shows – Data Cleaning Task
+# Medical Appointment No-Shows – Data Cleaning Task 1
 
 This repository contains the complete data cleaning process for the **Medical Appointment No Shows** dataset.
 
